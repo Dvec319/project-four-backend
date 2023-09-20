@@ -23,7 +23,7 @@ The backend for this project is going to be created using Django connected to Ne
 
 ```mermaid
 erDiagram
-    INDEX PAGE || --O{ SHOW : showAthlete
+    INDEX || --O{ SHOW : showAthlete
     SHOW{
         string name
         number age
@@ -33,7 +33,7 @@ erDiagram
         number year
     }
 
-    HOME || --o{ CREATE : createAthlete
+    INDEX || --o{ CREATE : createAthlete
     CREATE {
         string name
         number age
