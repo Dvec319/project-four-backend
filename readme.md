@@ -4,7 +4,6 @@
 - **Project By:** Michael Delvecchio
 - [**LINK TO DEPLOYED SITE**]
 - **List of Technologies used:** Python, Django, Django Rest Framework, Psycopg2 Binary, Postgres(Neon)
-- [**LINK TO TRELLO**]
 
 ## Description
 
