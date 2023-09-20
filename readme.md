@@ -3,7 +3,7 @@
 - **Project Name:** Favorite Athlete Holder
 - **Project By:** Michael Delvecchio
 - [**LINK TO DEPLOYED SITE**]
-- **List of Technologies used:** Django, Django Rest Framework, Psycopg2 Binary, Postgres(Neon)
+- **List of Technologies used:** Python, Django, Django Rest Framework, Psycopg2 Binary, Postgres(Neon)
 - [**LINK TO TRELLO**]
 
 ## Description
