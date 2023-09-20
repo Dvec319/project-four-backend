@@ -12,7 +12,8 @@ The backend for this project is going to be created using Django connected to Ne
 
 ## List of Backend Endpoints
 
-| Endpoint   | Method | Purpose                  |
+|  Endpoint  | Method |         Purpose          |
+| ---------- | ------ | ------------------------ |
 | " "        | GET    | Display list of Athletes |
 | create     | POST   | Create a new Athlete     |
 | delete/:id | DELETE | Delete an Athlete        |
