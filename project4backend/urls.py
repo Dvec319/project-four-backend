@@ -26,6 +26,6 @@ router.register(r'athletes', AthleteViewSet)
 
 urlpatterns = [
     # add router urls
-    path('', include(router.urls)),
+    path('athletes/', include(router.urls)),
     path('admin/', admin.site.urls),
 ]
