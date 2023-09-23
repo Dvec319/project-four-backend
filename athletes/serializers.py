@@ -6,4 +6,4 @@ class AthleteSerializer(serializers.HyperlinkedModelSerializer):
         # model to serialize
         model = Athlete
         # fields to show in json
-        fields = ('id', 'age', 'name', 'position', 'sport', 'team', 'year')
+        fields = ('id', 'age', 'name', 'position', 'sport', 'team', 'year', 'image')
