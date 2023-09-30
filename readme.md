@@ -2,7 +2,7 @@
 
 - **Project Name:** Favorite Athlete Holder
 - **Project By:** Michael Delvecchio
-- [**LINK TO DEPLOYED SITE**]
+- [**LINK TO DEPLOYED SITE**](https://favorite-athlete-holder-backend.onrender.com/athletes/)
 - **List of Technologies used:** Python, Django, Django Rest Framework, Psycopg2 Binary, Postgres(Neon)
 
 ## Description
